@@ -1,16 +1,16 @@
 # Hi, I'm Sadia Ali! 👋
 
-🎓 BCS Student @ Fatima Jinnah Women University, Rawalpindi  
-💡 Passionate about Artificial Intelligence & Cybersecurity  
+BCS Student @ Fatima Jinnah Women University, Rawalpindi  
+Passionate about Artificial Intelligence & Cybersecurity  
 📍 Rawalpindi, Pakistan  
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I am a Computer Science student at Fatima Jinnah Women University. 
-I am passionate about technology and believe in combining technical 
-skills with ethical responsibility and continuous learning. 
+I am a Computer Science student at Fatima Jinnah Women University.
+I am passionate about technology and believe in combining technical
+skills with ethical responsibility and continuous learning.
 My goal is to build intelligent and secure systems that benefit society.
 
 ---
@@ -27,27 +27,27 @@ My goal is to build intelligent and secure systems that benefit society.
 
 | Project | Technology | Description |
 |---------|------------|-------------|
-| 📚 Instruction Set Reference Tool | Assembly (ASM) | Reference tool for assembly instructions |
-| 🎮 Tic Tac Toe | C | Classic two-player game |
-| 🏫 University Management System | Java + SQL | OOP & Database management project |
-| 📱 Phone Directory App | Java + DSA | Data structure based contact directory |
+| Instruction Set Reference Tool | Assembly (ASM) | Reference tool for assembly instructions |
+| Tic Tac Toe | C | Classic two-player game |
+| University Management System | Java + SQL | OOP & Database management project |
+| Phone Directory App | Java + DSA | Data structure based contact directory |
 
 ---
 
 ## 🎯 Career Goals
 
-- 🤖 Specialize in **Artificial Intelligence & Machine Learning**
-- 🔐 Build expertise in **Cybersecurity & Ethical Hacking**
-- 📜 Complete industry certifications from Coursera & Google
-- 💼 Work in a reputed organization contributing to secure & intelligent systems
+- Specialize in Artificial Intelligence & Machine Learning
+- Build expertise in Cybersecurity & Ethical Hacking
+- Complete industry certifications from Coursera & Google
+- Work in a reputed organization contributing to secure & intelligent systems
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Sadia Ali](https://www.linkedin.com/in/sadia-ali-09044a403/)
-- 📧 Email: waseem105033@gmail.com
+- LinkedIn: [Sadia Ali](https://www.linkedin.com/in/sadia-ali-09044a403/)
+- Email: waseem105033@gmail.com
 
 ---
 
-⭐ *"Continuous learning is the key to success in technology!"*
+*"Continuous learning is the key to success in technology!"*
