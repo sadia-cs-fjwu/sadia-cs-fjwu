@@ -6,7 +6,7 @@ Passionate about Artificial Intelligence & Cybersecurity
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a Computer Science student at Fatima Jinnah Women University.
 I am passionate about technology and believe in combining technical
