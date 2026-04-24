@@ -46,7 +46,7 @@ My goal is to build intelligent and secure systems that benefit society.
 ## 📫 Connect With Me
 
 - LinkedIn: [Sadia Ali](https://www.linkedin.com/in/sadia-ali-09044a403/)
-- Email: waseem105033@gmail.com
+- Email: sadiaali3195@gmail.com
 
 ---
 
